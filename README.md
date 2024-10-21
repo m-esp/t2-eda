@@ -14,7 +14,7 @@ cmake ..
 cmake --build .
 ./Debug/imagepro.exe
 ```
-(Ojo que esto es para windows, yo usé Visual Studio 
+(Ojo que esto es para windows, yo usé Visual Studio)
 
 Ejemplos de uso
 ```bash

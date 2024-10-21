@@ -8,11 +8,13 @@ Primero clonar el repositorio:
 ```bash
 git clone https://github.com/m-esp/t2-eda
 cd imagepro
+mkdir build
+cd build
 cmake ..
 cmake --build .
 ./Debug/imagepro.exe
 ```
-
+(Ojo que esto es para windows, yo usé Visual Studio 
 
 Ejemplos de uso
 ```bash

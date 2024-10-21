@@ -15,8 +15,9 @@ cmake --build .
 
 
 Ejemplos de uso
-
+```bash
 Cargar imagen: 
+
 >> im1 = read ../images/image_1.bmp
 Leyendo imagen: ../images/image_1.bmp
 Imagen cargada como im1
@@ -33,3 +34,4 @@ Región 2 -> size 342
 
 Mostrar región específica:
 >> showregion im1 1
+```

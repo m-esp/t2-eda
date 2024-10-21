@@ -4,9 +4,9 @@ Para compilar y ejecutar el código:
 Un compilador compatible con C++11 o superior.
 CMake (opcional, pero recomendado para la construcción).
 
-Primero clonar el repositorio del profesor: 
+Primero clonar el repositorio: 
 ```bash
-git clone https://github.com/tu-usuario/imagepro.git
+git clone https://github.com/m-esp/t2-eda
 cd imagepro
 cmake ..
 cmake --build .
